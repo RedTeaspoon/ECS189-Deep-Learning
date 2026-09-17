@@ -1,0 +1,4 @@
+stage_3_data:
+- CIFAR
+- MNIST
+- ORL 
